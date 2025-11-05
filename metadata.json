@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Strategy Advisor",
+  "description": "A comprehensive dashboard for e-commerce sellers to analyze sales, profits, and losses across multiple platforms. This tool leverages AI to provide strategic advice on pricing, marketing, and profit maximization based on product data, competitor pricing, and market signals.",
+  "requestFramePermissions": []
+}
